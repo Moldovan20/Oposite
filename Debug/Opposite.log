@@ -1,0 +1,16 @@
+﻿  Opposite.cpp
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(23,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(52,122): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(52,79): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(53,123): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(53,80): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(54,121): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(54,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(96,132): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(96,88): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(97,132): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(97,88): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(98,131): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(98,87): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\Opposite\Opposite\Opposite.cpp(111,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Opposite.vcxproj -> C:\Users\Moldovan\source\repos\Opposite\Debug\Opposite.exe
